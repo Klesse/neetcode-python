@@ -1,4 +1,4 @@
-# NeetCode Roadmap Solutions
+# 🗺️ NeetCode Roadmap Solutions
 
 This repository contains the solutions for the leetcode's problems structured 
 in neetcode roadmap.
@@ -13,6 +13,7 @@ etc.)
 
 ## Roadmap Topics
 
+![image](https://github.com/Klesse/neetcode-python/assets/62315031/faaff6f8-6252-4e10-9b7d-27bd1bab48f2)
 
 ## Author
 
