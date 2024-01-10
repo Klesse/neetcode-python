@@ -13,7 +13,7 @@ etc.)
 
 ## Roadmap Topics
 
-![image](https://github.com/Klesse/neetcode-python/assets/62315031/faaff6f8-6252-4e10-9b7d-27bd1bab48f2)
+![image](https://github.com/Klesse/neetcode-python/assets/62315031/47e7b00c-b5f8-4c84-9038-aeab105e9195)
 
 ## Author
 
