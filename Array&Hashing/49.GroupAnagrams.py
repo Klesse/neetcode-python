@@ -1,6 +1,6 @@
 # First approach
 
-def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+def groupAnagrams(self, strs):
     anagrams = strs.copy()
     result=[]
     anams = anagrams.copy()
@@ -8,7 +8,7 @@ def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         aux = []
         first = anams[0]
         for word in anams:
-            if set(word) == set(first):
+            if sorted(word) == sorted(first):
                 aux.append(word)
                 anagrams.remove(word)
         result.append(aux)
