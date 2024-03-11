@@ -1,3 +1,5 @@
+# Obs: numbers list is ordered
+
 # First solution
 
 def twoSum(numbers, target):
